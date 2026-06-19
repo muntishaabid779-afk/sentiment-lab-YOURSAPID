@@ -22,3 +22,5 @@ All parameters are stored in config.json
 The best model was selected based on F1-score and accuracy.
 ## Model Evaluation
 Models were evaluated using accuracy and F1-score.
+## Final Submission
+Project completed and reviewed.
