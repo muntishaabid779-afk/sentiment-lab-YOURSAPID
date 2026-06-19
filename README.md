@@ -19,3 +19,4 @@ pip install -r requirements.txt
 All parameters are stored in config.json
 
 EDA completed
+Model evaluation completed
